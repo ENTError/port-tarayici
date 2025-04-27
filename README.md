@@ -1,6 +1,9 @@
-# port-tarayici
-Python ile yazılmış basit port tarayıcı aracı. İyi kullanımlar :) İlk toolum ilerde daha iyileri gelicek.
-## 📌 Kullanım
+# 🔍 Port Tarayıcı - ENTError
+
+Basit bir Python script'i ile IP adresi üzerinde belirtilen port aralığını tarar, açık veya kapalı olduğunu gösterir.
+
+## 💻 Kullanım
+
 ```bash
-sudo apt install python3
+Python3 yüklü deilse: sudo apt install python3
 python3 port_tarayici.py
